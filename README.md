@@ -1,28 +1,6 @@
-<h1 align="center">
-	<img alt="GoStack" src=".github/assets/logo.svg" width="200px" />
-</h1>
+<h3 align="center">ReactJS Application for Braseg Inc project</h3>
 
-<h3 align="center">ReactJS Application for GoBarber project</h3>
-
-<p align="center">The best way to schedule your service!</p>
-
-
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexsandroBezerra/gobarber-web?color=%23FF9000">
-
-  <a href="https://www.linkedin.com/in/alexsandrobezerra/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Alexsandro%20G%20Bezerra-%23FF9000">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexsandroBezerra/gobarber-web?color=%23FF9000">
-
-  <a href="https://github.com/AlexsandroBezerra/gobarber-web/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AlexsandroBezerra/gobarber-web?color=%23FF9000">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/AlexsandroBezerra/gobarber-web?color=%23FF9000">
-</p>
+<p align="center">The best way to find your insurance advisor!</p>
 
 
 ![GoBarber-Layout](.github/assets/gobarber.png)
@@ -39,17 +17,6 @@
 </br>
 
 <p id="about"></p>
-
-## :information_desk_person: About the project
-
-Soon
-
-<p id="links"></p>
-
-### :link: Useful links
-
-To see the **GoBarber rest api**, [click here](https://github.com/AlexsandroBezerra/gobarber-backend) <br />
-To see the **GoBarber mobile client**, [click here](https://github.com/AlexsandroBezerra/gobarber-mobile)
 
 
 <p id="technologies"></p>
@@ -75,16 +42,12 @@ Technologies that I used to develop this web client:
 
 ## :computer: Getting started
 
-### Requirements
-
-- Have this application's [API](https://github.com/AlexsandroBezerra/gobarber-backend) running
-
 **Clone the project and access the folder**
 
 ```bash
-git clone https://github.com/AlexsandroBezerra/gobarber-web.git
+git clone https://github.com/rubenrgd/braseg-front.git
 
-cd gobarber-web
+cd braseg-front
 ```
 
 **Follow the steps below**
@@ -109,14 +72,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork AlexsandroBezerra/gobarber-web
+$ gh repo fork rubenrgd/braseg-front
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-web
+$ git clone your-fork-url && cd braseg-front
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -139,4 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with :purple_heart: by Alexsandro G Bezerra :wave: &nbsp;[See my Linkedin](https://www.linkedin.com/in/alexsandrobezerra)
+Made with :purple_heart: by Ruben R G Dias :wave: &nbsp;[See my Linkedin](https://www.linkedin.com/in/ruben-dias-59966415b/)
