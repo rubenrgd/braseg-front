@@ -3,8 +3,6 @@
 <p align="center">The best way to find your insurance advisor!</p>
 
 
-![GoBarber-Layout](.github/assets/gobarber.png)
-
 <p align="center">
   <a href="#about">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#links">Useful links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
